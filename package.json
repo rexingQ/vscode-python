@@ -1814,7 +1814,7 @@
         "vscode-extension-telemetry": "0.4.5",
         "vscode-jsonrpc": "8.0.1",
         "vscode-languageclient": "8.0.1",
-        "vscode-languageserver": "8.0.1",
+        "vscode-languageserver": "8.0.2",
         "vscode-languageserver-protocol": "3.17.1",
         "vscode-nls": "^5.0.1",
         "vscode-tas-client": "^0.1.22",
