@@ -1,4 +1,35 @@
-{
+Sure, I can help you with that. Here is an example C++ code for a three-dimensional space:
+
+```c++
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+class Point3D {
+public:
+    double x, y, z;
+    Point3D(double a, double b, double c) : x(a), y(b), z(c) {}
+};
+
+class Space {
+public:
+    vector<Point3D> points;
+    Space() {}
+
+    void addPoint(Point3D p) {
+        points.push_back(p);
+    }
+
+    int size() const {
+        return points.size();
+    }
+
+    Point3D operator[](int i) const {
+        return points[i];
+    }
+
+    friend ostream& operator<<(ostream... 
     "name": "python",
     "displayName": "Python",
     "description": "IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more.",
