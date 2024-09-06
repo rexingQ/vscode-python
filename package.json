@@ -1817,7 +1817,7 @@
         "vscode-languageserver": "8.0.1",
         "vscode-languageserver-protocol": "3.17.1",
         "vscode-nls": "^5.0.1",
-        "vscode-tas-client": "^0.1.75",
+        "vscode-tas-client": "^0.1.84",
         "winreg": "^1.2.4",
         "xml2js": "^0.4.19"
     },
