@@ -1809,7 +1809,7 @@
         "uint64be": "^3.0.0",
         "unicode": "^14.0.0",
         "untildify": "^4.0.0",
-        "vscode-debugadapter": "^1.28.0",
+        "vscode-debugadapter": "^1.51.0",
         "vscode-debugprotocol": "^1.28.0",
         "vscode-extension-telemetry": "0.4.5",
         "vscode-jsonrpc": "8.0.1",
